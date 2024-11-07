@@ -4,7 +4,7 @@
 <h1 align="center"> नमस्ते (Namaste)🙏🏻, I am Vivek Sahu 👋</h1>
 <h3 align="center">Full Stack Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=viveksahu0404&label=Profile%20views&color=0e75b6&style=flat" alt="viveksahu0404" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=viveksahu040&label=Profile%20views&color=0e75b6&style=flat" alt="viveksahu0404" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@viveksa86281882" target="blank"><img src="https://img.shields.io/twitter/follow/@viveksa86281882?logo=twitter&style=for-the-badge" alt="@viveksa86281882" /></a> </p>
 
